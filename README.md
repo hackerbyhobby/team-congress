@@ -1,13 +1,22 @@
-#  Module 6 Challenge
-> Module 6 Challenge for ASU AI Bootcamp
+#  project 1
+> project 1 for ASU AI Bootcamp
 
-I did this assignment on my own, but there's a high possibility I help others as they experience challenges with their own code
+This was a team project conducted with 5 classmates altogether.
 
-In this challenge, I developed a prediction system that will help the NOOA Space Weather Prediction Center predict Geomagnetic Storms (GSTs). This was done using NASA's DONKI (The Space Weather Database Of Notifications, Knowledge, Information (DONKI))open API and more specifically, the APIs for Coronal Mass Ejections (CME) and Geomagnetic Storms (GST). Using each of the two component services (CME, GST) endpoints, I pulled data and created datasets, cleaning, exploring and analyzing the data. Developing the solutions for this project involved gave me additional practical understanding of data exploration, transformation, and analysis, preparing me for more complex data scenarios in future programs. By running this application, users will be able to better predict which CMEs will result in GSTs.
+## Scope and Purpose
+Americans are concerned about U.S. Congress persons making profits in the stock market while also having unfair insider information due to their elected positions. Our project would analyze the stock trading activities of U.S. Congress members, with a specific focus on trades disclosed by Nancy Pelosi, because she is a controversially successful person. By examining the dataset of her trades, we intend to uncover potential patterns in stock purchases and sales, identify high-activity sectors, and forecast future trading trends. The project will leverage public disclosures, providing insights into the timing, volume, and market sectors Pelosi invests in.
 
-Geomagnetic storms are caused by so-called Coronal Mass Ejections (CMEs), which are a massive bursts of plasma emitted from the Sun in irregular intervals, that Earth's magnetic shield fortunately renders harmless to us. However, this interaction with the magnetic shield can still create so-called Geomagnetic Storms (which also cause the Northern and Southern Lights) that can be harmful to electronic devices such as satellites, GPS systems, and essential parts of our powergrids.
+## Datasource
+We will use Quiver Quantitative as our primary data source: https://www.quiverquant.com/congresstrading/
 
-NASA and the Space Weather Prediction Center operate a number of measuring satellites that collect data on CMEs. This data is then used to warn powergrid operators and GPS system operators ahead of time, so that they can make necessary adjustments.
+## Questions we planned to ask of the data
+For congress as a whole, is Pelosi even the most interesting person in terms of successful trades? Are there other successful outliers that we should be interested in?
+What patterns can be detected in the types of stocks traded by Congress or Pelosi, and are there specific sectors of repeated interest?
+How do the timing and frequency of her trades align with significant legislative decisions or market shifts?
+Can we use historical data to forecast future trading activity, and what implications might this have for market prediction?
+How do Congress or Pelosi's stock trades perform relative to major indices like the S&P 500?
+
+## Analysis, Observations and Conclusions
 
 ## Installing / Getting started
 
