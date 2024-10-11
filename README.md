@@ -12,7 +12,7 @@ We will use Quiver Quantitative as our primary data source: https://www.quiverqu
 ## Questions we planned to ask of the data
 For congress as a whole, is Pelosi even the most interesting person in terms of successful trades? Are there other successful outliers that we should be interested in?
 What patterns can be detected in the types of stocks traded by Congress or Pelosi, and are there specific sectors of repeated interest?
-How do the timing and frequency of her trades align with significant legislative decisions or market shifts?
+How do the timing and frequency of Congress' trades align with significant legislative decisions or market shifts?
 Can we use historical data to forecast future trading activity, and what implications might this have for market prediction?
 How do Congress or Pelosi's stock trades perform relative to major indices like the S&P 500?
 
