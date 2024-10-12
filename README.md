@@ -4,7 +4,7 @@
 This was a team project conducted with 5 classmates altogether.
 
 ## Scope and Purpose
-Americans are concerned about U.S. Congress persons making profits in the stock market while also having unfair insider information due to their elected positions. Our project would analyze the stock trading activities of U.S. Congress members, with a specific focus on trades disclosed by Nancy Pelosi, because she is a controversially successful person. By examining the dataset of her trades, we intend to uncover potential patterns in stock purchases and sales, identify high-activity sectors, and forecast future trading trends. The project will leverage public disclosures, providing insights into the timing, volume, and market sectors Pelosi invests in.
+Americans are concerned about U.S. Congress persons making profits in the stock market while also having unfair insider information due to their elected positions. Our project would analyze the stock trading activities of U.S. Congress members, with a specific focus on trades disclosed by Nancy Pelosi, because according to social media, the assumptions is that she is a controversially successful person. By examining the dataset of her trades and those of Congress, we intend to uncover potential patterns in stock purchases and sales, identify high-activity sectors, and forecast future trading trends. The project will leverage public disclosures, providing insights into the timing, volume, and market sectors Pelosi and Congress invests in.
 
 ## Datasource
 We will use Quiver Quantitative as our primary data source: https://www.quiverquant.com/congresstrading/
@@ -14,13 +14,13 @@ For congress as a whole, is Pelosi even the most interesting person in terms of 
 What patterns can be detected in the types of stocks traded by Congress or Pelosi, and are there specific sectors of repeated interest?
 How do the timing and frequency of Congress' trades align with significant legislative decisions or market shifts?
 Can we use historical data to forecast future trading activity, and what implications might this have for market prediction?
-How do Congress or Pelosi's stock trades perform relative to major indices like the S&P 500?
+How do Pelosi's stock trades perform relative to major indices like the S&P 500?
 
 ## Analysis, Observations and Conclusions
 
 ## Installing / Getting started
 
-Open the retrieve_data.ipynb Jupyter notebook using a Jupyter server. Explore the data.
+Open any of the Jupyter notebooks using a Jupyter server. Create a keys.env file with your QuiverQuant API token. Explore the data.
 
 ```jupyter lab
 retrieve_data.ipynb
