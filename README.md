@@ -17,6 +17,7 @@ Can we use historical data to forecast future trading activity, and what implica
 How do Pelosi's stock trades perform relative to major indices like the S&P 500?
 
 ## Analysis, Observations and Conclusions
+View the file presentation.pdf for the questions, analysis plots, conclusions and future considerations.
 
 ## Installing / Getting started
 
