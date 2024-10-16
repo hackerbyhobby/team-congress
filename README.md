@@ -21,10 +21,10 @@ View the file presentation.pdf for the questions, analysis plots, conclusions an
 
 ## Installing / Getting started
 
-Open any of the Jupyter notebooks using a Jupyter server. Create a keys.env file with your QuiverQuant API token. Explore the data.
+Open any of the Jupyter notebooks using a Jupyter server. Create a keys.env file with your QuiverQuant API token (requires a purchase). Explore the data.
 
 ```jupyter lab
-retrieve_data.ipynb
+<review each different jupyter notebook file>.ipynb
 ```
 
 Run each part of the code in the notebook to explore the data. Note that some of the code is provided to confirm dataset information and to create the requirements for this project.
